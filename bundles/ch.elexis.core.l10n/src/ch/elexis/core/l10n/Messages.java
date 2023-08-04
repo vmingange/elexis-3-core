@@ -4471,6 +4471,7 @@ public class Messages extends NLS {
 	public static String TarmedDetailDisplay_TPDoc;
 	public static String TarmedDetailDisplay_TPTec;
 	public static String TarmedDetailDisplay_TecInter;
+	public static String TarmedDetailDisplay_Text;
 	public static String TarmedDetailDisplay_TimeAct;
 	public static String TarmedDetailDisplay_TimeBeforeAfter;
 	public static String TarmedDetailDisplay_TimeChange;
@@ -4478,6 +4479,7 @@ public class Messages extends NLS {
 	public static String TarmedDetailDisplay_TimeWrite;
 	public static String TarmedDetailDisplay_Validity;
 	public static String TarmedDetailDisplay_Validity_Unlimited;
+	public static String TarmedDetailDisplay_Ziffer;
 	public static String TarmedDetailDisplay_after;
 	public static String TarmedDetailDisplay_max;
 	public static String TarmedDetailDisplay_per;
